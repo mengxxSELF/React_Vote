@@ -20,13 +20,12 @@
 
 ## 启动项目
 
-* 启动webpack
+* webpack
 
 > npm run vote_dev
 
 
-*
-进入server文件夹启动服务器
+* 进入server文件夹启动服务器
 
 > $ npm run start
 ```
