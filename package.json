@@ -38,16 +38,7 @@
     "build": "webpack",
     "dev": "webpack-dev-server",
     "vote_dev": "webpack-dev-server  --config webpack.config.vote.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zhufengnodejs/201605webpack.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zhufengnodejs/201605webpack/issues"
-  },
-  "homepage": "https://github.com/zhufengnodejs/201605webpack#readme"
-}
+  }
+
+
+  }
