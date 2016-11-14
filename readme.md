@@ -16,10 +16,18 @@
 个人主页
 规则页
 
-```
-启动服务器
 
-```
+
+## 启动项目
+
+* 启动webpack
+
+> npm run vote_dev
+
+
+*
+进入server文件夹启动服务器
+
 > $ npm run start
 ```
 
@@ -84,3 +92,7 @@
 	url: /vote/all/detail/data?id={用户id}
 	返回数据：errno为0，数据正确
 	```
+
+```
+
+
